@@ -1,5 +1,5 @@
 
-#### Data Mining the Diabetes Mellitus disease
+Data Mining the Diabetes Mellitus disease
 
 A project utilising Data Mining (KDD) and Machine Learning to classify positive or negative diabetes mellitus status in ICU patients using diagnostic data.
 
